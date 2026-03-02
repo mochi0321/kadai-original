@@ -133,7 +133,7 @@ const worksData = {
       },
       {
         title: "デザインカンプ作成",
-        img: "./images/./images/coming-soon.png",
+        img: "./images/coming-soon.png",
         text: "ただ今制作中です"
       },
       {
@@ -209,7 +209,7 @@ const worksData = {
       },
       {
         title: "Web制作・コーディング",
-        img: "./images/coming-soon.png",
+        img: "./images/LP-coding.png",
         text: "SEO対策のためロゴ以外の図形はすべてhtmlとcssで制作しました。レスポンシブ対応も行いすべてのデバイスでスムーズにストレスを感じずに閲覧できるよう意識してコーディングしました。"
       }
     ],
