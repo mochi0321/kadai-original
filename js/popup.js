@@ -104,7 +104,7 @@ const worksData = {
       }
     ],
 
-    url: "../kadai-responsive-coding/index.html"
+    url:"/kadai-original/works.html"
   },
 
   kazukiumeda: {
@@ -143,7 +143,7 @@ const worksData = {
       }
     ],
 
-    url: "../kadai-responsive-coding/index.html"
+    url: "/kadai-original/works.html"
   },
 
   pf: {
